@@ -27,8 +27,8 @@ export default function TelegramProvider() {
       webApp.ready();
       webApp.expand();
 
-      webApp.setHeaderColor('#000000'); // Use your app's exact background hex color
-      webApp.setBackgroundColor('#000000');
+      webApp.setHeaderColor('transparent'); // Use your app's exact background hex color
+      webApp.setBackgroundColor('transparent');
       
       
       if (webApp.requestFullscreen) {
