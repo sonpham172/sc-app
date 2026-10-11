@@ -78,7 +78,7 @@ export default function HomePage() {
   <div className="pt-3 flex items-center justify-between">
     <div className="flex items-center gap-2">
       <span className="text-xl font-medium text-[#00b4f0]">
-        + 221,875,616.00
+        + 381,875,616.00
       </span>
       <span className="bg-[#00b4f0] text-white text-[10px] font-bold px-1.5 py-0.5 rounded">
         VND
