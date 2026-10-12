@@ -69,7 +69,7 @@ export default function AccountHistoryPage() {
   const [newCategory, setNewCategory] = useState("Khác");
 
   // Tính tổng số dư tài khoản dựa trên các giao dịch
-  const currentBalance = 221875616;
+  const currentBalance = 381875616;
 
   // Xử lý thêm giao dịch mới
   const handleAddTransaction = (e: React.FormEvent) => {
